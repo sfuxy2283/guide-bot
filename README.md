@@ -64,7 +64,7 @@ You have to send message in japanese so I let you know sevral japanese words tha
 
 ## Starting the application on your server
 
-### Before do it, check [Officail LINE message API repo]() first.
+### Before do it, check [Officail LINE message API repo](https://github.com/line/line-bot-sdk-php) first.
 
 1. First, download the repo.
 1. Run **composer update** to use composer autoloader.

@@ -90,6 +90,14 @@ You have to send message in japanese so I let you know sevral japanese words tha
 1. From the `API`, `handler` gets the data and send it to the user and delete user's request in the database.
 1. User gets the information!
 
+### Database structure
+#### users
+![users](users_table.png)
+
+#### locations
+![locations](locations_table.png)
+Save datas about location to handle user's weather, place request.
+
 #### All handlers are based on the overview, but they each works a little different, if you wnat to know how they each works exactly check my code.
 
 ## Future works

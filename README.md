@@ -2,6 +2,8 @@
 
 PHP 7.2.7, MariaDB 10.1.34
 
+![exmaple](guidebot-example.gif)
+
 ## What is it?
 
 This bot is for guiding japanese who travel Korea using LINE App.
@@ -60,7 +62,7 @@ You have to send message in japanese so I let you know sevral japanese words tha
 1. Search nearby - 場所検索
 1. Translate - 翻訳
 
-![example](bot-qr.png)
+![qrcode](bot-qr.png)
 
 ## Starting the application on your server
 
